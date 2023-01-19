@@ -15,7 +15,7 @@ const heading2 = React.createElement(
         id: "title2",
         key: "h2"
     }, 
-    "Hello world2!"
+    "Testing from remote."
 );
 
 const container = React.createElement(
