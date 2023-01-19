@@ -2907,7 +2907,7 @@ var _clientDefault = parcelHelpers.interopDefault(_client);
 const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
     id: "title",
     key: "h1"
-}, "Hello world!");
+}, "Sakthivel");
 const heading2 = /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {
     id: "title2",
     key: "h2"
