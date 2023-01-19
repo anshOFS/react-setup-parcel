@@ -2911,7 +2911,7 @@ const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
 const heading2 = /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {
     id: "title2",
     key: "h2"
-}, "Hello world2!");
+}, "Testing from remote.");
 const container = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     id: "container",
     key: "contain"
